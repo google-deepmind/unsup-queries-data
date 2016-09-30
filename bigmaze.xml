@@ -1,0 +1,766 @@
+<?xml version="1.0"?>
+<map name="BigMaze" xplus="90" xminus="270" yplus="180" yminus="0">
+	<node x="0" y="0" item="" />
+	<node x="0" y="1" item="easel" />
+	<node x="0" y="6" item="" />
+	<node x="0" y="7" item="" />
+	<node x="0" y="8" item="" />
+	<node x="0" y="9" item="hatrack" />
+	<node x="0" y="10" item="" />
+	<node x="0" y="11" item="hatrack" />
+	<node x="0" y="12" item="" />
+	<node x="0" y="13" item="" />
+	<node x="0" y="14" item="" />
+	<node x="0" y="15" item="" />
+	<node x="0" y="16" item="easel" />
+	<node x="1" y="0" item="sofa" />
+	<node x="1" y="1" item="" />
+	<node x="1" y="2" item="" />
+	<node x="1" y="3" item="" />
+	<node x="1" y="6" item="" />
+	<node x="1" y="7" item="barstool" />
+	<node x="1" y="8" item="" />
+	<node x="1" y="9" item="" />
+	<node x="1" y="10" item="" />
+	<node x="1" y="11" item="" />
+	<node x="1" y="12" item="barstool" />
+	<node x="1" y="13" item="lamp" />
+	<node x="1" y="14" item="" />
+	<node x="1" y="15" item="" />
+	<node x="1" y="16" item="" />
+	<node x="1" y="17" item="" />
+	<node x="2" y="0" item="" />
+	<node x="2" y="1" item="hatrack" />
+	<node x="2" y="2" item="" />
+	<node x="2" y="3" item="hatrack" />
+	<node x="2" y="5" item="" />
+	<node x="2" y="6" item="" />
+	<node x="2" y="7" item="" />
+	<node x="2" y="8" item="chair" />
+	<node x="2" y="9" item="" />
+	<node x="2" y="10" item="" />
+	<node x="2" y="11" item="easel" />
+	<node x="2" y="12" item="" />
+	<node x="2" y="13" item="chair" />
+	<node x="2" y="14" item="hatrack" />
+	<node x="2" y="15" item="" />
+	<node x="2" y="16" item="" />
+	<node x="2" y="17" item="" />
+	<node x="2" y="18" item="" />
+	<node x="3" y="0" item="" />
+	<node x="3" y="1" item="" />
+	<node x="3" y="2" item="chair" />
+	<node x="3" y="3" item="" />
+	<node x="3" y="5" item="" />
+	<node x="3" y="7" item="" />
+	<node x="3" y="8" item="" />
+	<node x="3" y="9" item="" />
+	<node x="3" y="10" item="" />
+	<node x="3" y="11" item="" />
+	<node x="3" y="12" item="lamp" />
+	<node x="3" y="13" item="" />
+	<node x="3" y="14" item="" />
+	<node x="3" y="15" item="" />
+	<node x="3" y="16" item="lamp" />
+	<node x="3" y="17" item="" />
+	<node x="3" y="18" item="lamp" />
+	<node x="3" y="19" item="" />
+	<node x="3" y="20" item="" />
+	<node x="4" y="2" item="sofa" />
+	<node x="4" y="3" item="" />
+	<node x="4" y="4" item="" />
+	<node x="4" y="5" item="lamp" />
+	<node x="4" y="6" item="" />
+	<node x="4" y="7" item="barstool" />
+	<node x="4" y="8" item="" />
+	<node x="4" y="9" item="" />
+	<node x="4" y="10" item="sofa" />
+	<node x="4" y="11" item="" />
+	<node x="4" y="12" item="" />
+	<node x="4" y="13" item="" />
+	<node x="4" y="14" item="" />
+	<node x="4" y="15" item="lamp" />
+	<node x="4" y="16" item="" />
+	<node x="4" y="17" item="" />
+	<node x="4" y="18" item="" />
+	<node x="4" y="19" item="" />
+	<node x="4" y="20" item="" />
+	<node x="5" y="2" item="" />
+	<node x="5" y="3" item="" />
+	<node x="5" y="4" item="" />
+	<node x="5" y="5" item="hatrack" />
+	<node x="5" y="6" item="lamp" />
+	<node x="5" y="7" item="" />
+	<node x="5" y="8" item="lamp" />
+	<node x="5" y="9" item="sofa" />
+	<node x="5" y="10" item="" />
+	<node x="5" y="11" item="" />
+	<node x="5" y="12" item="" />
+	<node x="5" y="13" item="" />
+	<node x="5" y="14" item="" />
+	<node x="5" y="15" item="barstool" />
+	<node x="5" y="16" item="" />
+	<node x="5" y="17" item="easel" />
+	<node x="5" y="18" item="sofa" />
+	<node x="5" y="19" item="" />
+	<node x="5" y="20" item="" />
+	<node x="6" y="2" item="lamp" />
+	<node x="6" y="3" item="" />
+	<node x="6" y="4" item="" />
+	<node x="6" y="5" item="" />
+	<node x="6" y="6" item="" />
+	<node x="6" y="15" item="easel" />
+	<node x="6" y="16" item="hatrack" />
+	<node x="6" y="17" item="" />
+	<node x="6" y="18" item="" />
+	<node x="6" y="19" item="" />
+	<node x="6" y="20" item="lamp" />
+	<node x="7" y="3" item="easel" />
+	<node x="7" y="4" item="" />
+	<node x="7" y="5" item="" />
+	<node x="7" y="6" item="easel" />
+	<node x="7" y="15" item="" />
+	<node x="7" y="16" item="" />
+	<node x="7" y="17" item="" />
+	<node x="7" y="18" item="" />
+	<node x="7" y="19" item="" />
+	<node x="7" y="20" item="" />
+	<node x="8" y="3" item="" />
+	<node x="8" y="4" item="sofa" />
+	<node x="8" y="5" item="hatrack" />
+	<node x="8" y="6" item="" />
+	<node x="8" y="9" item="" />
+	<node x="8" y="10" item="" />
+	<node x="8" y="15" item="" />
+	<node x="8" y="16" item="" />
+	<node x="8" y="17" item="" />
+	<node x="8" y="18" item="" />
+	<node x="8" y="19" item="" />
+	<node x="8" y="20" item="" />
+	<node x="9" y="2" item="" />
+	<node x="9" y="3" item="" />
+	<node x="9" y="4" item="" />
+	<node x="9" y="5" item="" />
+	<node x="9" y="6" item="" />
+	<node x="9" y="7" item="easel" />
+	<node x="9" y="8" item="" />
+	<node x="9" y="9" item="" />
+	<node x="9" y="10" item="" />
+	<node x="9" y="15" item="" />
+	<node x="9" y="16" item="" />
+	<node x="9" y="17" item="hatrack" />
+	<node x="10" y="0" item="hatrack" />
+	<node x="10" y="1" item="" />
+	<node x="10" y="2" item="" />
+	<node x="10" y="3" item="" />
+	<node x="10" y="4" item="easel" />
+	<node x="10" y="5" item="" />
+	<node x="10" y="6" item="" />
+	<node x="10" y="7" item="" />
+	<node x="10" y="8" item="" />
+	<node x="10" y="9" item="hatrack" />
+	<node x="10" y="10" item="easel" />
+	<node x="10" y="11" item="" />
+	<node x="10" y="12" item="" />
+	<node x="10" y="15" item="" />
+	<node x="10" y="16" item="" />
+	<node x="10" y="17" item="lamp" />
+	<node x="11" y="0" item="" />
+	<node x="11" y="1" item="" />
+	<node x="11" y="2" item="" />
+	<node x="11" y="3" item="sofa" />
+	<node x="11" y="4" item="" />
+	<node x="11" y="5" item="" />
+	<node x="11" y="6" item="lamp" />
+	<node x="11" y="7" item="" />
+	<node x="11" y="8" item="" />
+	<node x="11" y="9" item="" />
+	<node x="11" y="10" item="" />
+	<node x="11" y="11" item="sofa" />
+	<node x="11" y="12" item="" />
+	<node x="11" y="15" item="sofa" />
+	<node x="11" y="16" item="" />
+	<node x="11" y="17" item="" />
+	<node x="11" y="18" item="" />
+	<node x="11" y="19" item="chair" />
+	<node x="11" y="20" item="" />
+	<node x="12" y="0" item="" />
+	<node x="12" y="1" item="" />
+	<node x="12" y="2" item="lamp" />
+	<node x="12" y="3" item="" />
+	<node x="12" y="4" item="easel" />
+	<node x="12" y="6" item="" />
+	<node x="12" y="7" item="" />
+	<node x="12" y="8" item="" />
+	<node x="12" y="9" item="sofa" />
+	<node x="12" y="10" item="" />
+	<node x="12" y="11" item="" />
+	<node x="12" y="12" item="" />
+	<node x="12" y="15" item="" />
+	<node x="12" y="16" item="chair" />
+	<node x="12" y="17" item="" />
+	<node x="12" y="18" item="easel" />
+	<node x="12" y="19" item="" />
+	<node x="12" y="20" item="easel" />
+	<node x="13" y="1" item="easel" />
+	<node x="13" y="2" item="" />
+	<node x="13" y="3" item="easel" />
+	<node x="13" y="4" item="" />
+	<node x="13" y="6" item="" />
+	<node x="13" y="7" item="" />
+	<node x="13" y="8" item="easel" />
+	<node x="13" y="9" item="" />
+	<node x="13" y="10" item="" />
+	<node x="13" y="11" item="" />
+	<node x="13" y="12" item="barstool" />
+	<node x="13" y="13" item="" />
+	<node x="13" y="14" item="chair" />
+	<node x="13" y="15" item="" />
+	<node x="13" y="16" item="" />
+	<node x="13" y="17" item="" />
+	<node x="13" y="18" item="" />
+	<node x="13" y="19" item="" />
+	<node x="13" y="20" item="" />
+	<node x="14" y="0" item="barstool" />
+	<node x="14" y="1" item="" />
+	<node x="14" y="2" item="" />
+	<node x="14" y="3" item="chair" />
+	<node x="14" y="4" item="" />
+	<node x="14" y="8" item="" />
+	<node x="14" y="9" item="" />
+	<node x="14" y="10" item="" />
+	<node x="14" y="11" item="" />
+	<node x="14" y="12" item="lamp" />
+	<node x="14" y="13" item="" />
+	<node x="14" y="14" item="easel" />
+	<node x="14" y="15" item="" />
+	<node x="14" y="16" item="" />
+	<node x="14" y="17" item="" />
+	<node x="14" y="18" item="" />
+	<node x="14" y="19" item="sofa" />
+	<node x="14" y="20" item="" />
+	<node x="15" y="0" item="" />
+	<node x="15" y="1" item="" />
+	<node x="15" y="2" item="" />
+	<node x="15" y="3" item="" />
+	<node x="15" y="4" item="sofa" />
+	<node x="15" y="5" item="" />
+	<node x="15" y="6" item="easel" />
+	<node x="15" y="7" item="" />
+	<node x="15" y="8" item="" />
+	<node x="15" y="9" item="" />
+	<node x="15" y="10" item="barstool" />
+	<node x="15" y="12" item="" />
+	<node x="15" y="13" item="" />
+	<node x="15" y="14" item="" />
+	<node x="15" y="15" item="" />
+	<node x="15" y="16" item="" />
+	<node x="15" y="17" item="" />
+	<node x="15" y="18" item="barstool" />
+	<node x="15" y="19" item="" />
+	<node x="15" y="20" item="" />
+	<node x="16" y="0" item="" />
+	<node x="16" y="1" item="lamp" />
+	<node x="16" y="2" item="" />
+	<node x="16" y="3" item="" />
+	<node x="16" y="4" item="" />
+	<node x="16" y="5" item="" />
+	<node x="16" y="6" item="" />
+	<node x="16" y="7" item="" />
+	<node x="16" y="8" item="" />
+	<node x="16" y="9" item="lamp" />
+	<node x="16" y="10" item="" />
+	<node x="16" y="14" item="lamp" />
+	<node x="16" y="15" item="" />
+	<node x="16" y="16" item="chair" />
+	<node x="16" y="17" item="" />
+	<node x="16" y="18" item="" />
+	<node x="16" y="19" item="" />
+	<node x="16" y="20" item="sofa" />
+	<node x="17" y="0" item="" />
+	<node x="17" y="5" item="" />
+	<node x="17" y="6" item="" />
+	<node x="17" y="7" item="" />
+	<node x="17" y="8" item="chair" />
+	<node x="17" y="9" item="" />
+	<node x="17" y="10" item="" />
+	<node x="17" y="12" item="chair" />
+	<node x="17" y="13" item="" />
+	<node x="17" y="14" item="" />
+	<node x="17" y="15" item="" />
+	<node x="17" y="16" item="" />
+	<node x="17" y="17" item="sofa" />
+	<node x="17" y="18" item="" />
+	<node x="17" y="19" item="" />
+	<node x="17" y="20" item="" />
+	<node x="18" y="0" item="" />
+	<node x="18" y="2" item="" />
+	<node x="18" y="3" item="easel" />
+	<node x="18" y="4" item="" />
+	<node x="18" y="5" item="lamp" />
+	<node x="18" y="6" item="" />
+	<node x="18" y="7" item="" />
+	<node x="18" y="9" item="" />
+	<node x="18" y="10" item="chair" />
+	<node x="18" y="11" item="" />
+	<node x="18" y="12" item="" />
+	<node x="18" y="13" item="" />
+	<node x="18" y="14" item="" />
+	<node x="18" y="15" item="" />
+	<node x="18" y="16" item="" />
+	<node x="18" y="17" item="" />
+	<node x="18" y="18" item="sofa" />
+	<node x="18" y="19" item="barstool" />
+	<node x="18" y="20" item="" />
+	<node x="19" y="0" item="" />
+	<node x="19" y="5" item="" />
+	<node x="19" y="6" item="" />
+	<node x="19" y="7" item="easel" />
+	<node x="19" y="10" item="" />
+	<node x="19" y="11" item="lamp" />
+	<node x="19" y="12" item="easel" />
+	<node x="19" y="13" item="" />
+	<node x="19" y="14" item="hatrack" />
+	<node x="19" y="15" item="" />
+	<node x="19" y="16" item="" />
+	<node x="19" y="17" item="sofa" />
+	<node x="19" y="18" item="" />
+	<node x="19" y="19" item="" />
+	<node x="19" y="20" item="" />
+	<node x="20" y="0" item="barstool" />
+	<node x="20" y="1" item="" />
+	<node x="20" y="2" item="barstool" />
+	<node x="20" y="3" item="" />
+	<node x="20" y="4" item="" />
+	<node x="20" y="5" item="chair" />
+	<node x="20" y="7" item="" />
+	<node x="20" y="8" item="" />
+	<node x="20" y="9" item="lamp" />
+	<node x="20" y="10" item="" />
+	<node x="20" y="11" item="" />
+	<node x="20" y="12" item="" />
+	<node x="20" y="13" item="sofa" />
+	<node x="20" y="14" item="" />
+	<node x="20" y="15" item="" />
+	<node x="20" y="16" item="" />
+	<node x="20" y="17" item="" />
+	<node x="20" y="18" item="" />
+	<node x="20" y="19" item="easel" />
+	<node x="20" y="20" item="" />
+
+	<edge node1="0,0" node2="0,1" wall="fish" floor="yellow" />
+	<edge node1="0,6" node2="0,7" wall="fish" floor="yellow" />
+	<edge node1="0,8" node2="0,9" wall="fish" floor="yellow" />
+	<edge node1="0,9" node2="0,10" wall="fish" floor="yellow" />
+	<edge node1="0,10" node2="0,11" wall="fish" floor="yellow" />
+	<edge node1="0,11" node2="0,12" wall="fish" floor="yellow" />
+	<edge node1="0,13" node2="0,14" wall="fish" floor="yellow" />
+	<edge node1="0,14" node2="0,15" wall="fish" floor="yellow" />
+	<edge node1="0,15" node2="0,16" wall="fish" floor="yellow" />
+	<edge node1="1,0" node2="1,1" wall="tower" floor="yellow" />
+	<edge node1="1,1" node2="1,2" wall="tower" floor="yellow" />
+	<edge node1="1,2" node2="1,3" wall="tower" floor="yellow" />
+	<edge node1="1,7" node2="1,8" wall="tower" floor="yellow" />
+	<edge node1="1,8" node2="1,9" wall="tower" floor="yellow" />
+	<edge node1="1,9" node2="1,10" wall="tower" floor="yellow" />
+	<edge node1="1,11" node2="1,12" wall="tower" floor="blue" />
+	<edge node1="1,12" node2="1,13" wall="tower" floor="blue" />
+	<edge node1="1,13" node2="1,14" wall="tower" floor="blue" />
+	<edge node1="1,14" node2="1,15" wall="tower" floor="blue" />
+	<edge node1="1,16" node2="1,17" wall="tower" floor="blue" />
+	<edge node1="2,0" node2="2,1" wall="butterfly" floor="blue" />
+	<edge node1="2,1" node2="2,2" wall="butterfly" floor="yellow" />
+	<edge node1="2,2" node2="2,3" wall="butterfly" floor="yellow" />
+	<edge node1="2,5" node2="2,6" wall="butterfly" floor="concrete" />
+	<edge node1="2,7" node2="2,8" wall="tower" floor="concrete" />
+	<edge node1="2,9" node2="2,10" wall="tower" floor="grass" />
+	<edge node1="2,10" node2="2,11" wall="tower" floor="grass" />
+	<edge node1="2,11" node2="2,12" wall="tower" floor="grass" />
+	<edge node1="2,12" node2="2,13" wall="tower" floor="wood" />
+	<edge node1="2,13" node2="2,14" wall="tower" floor="wood" />
+	<edge node1="3,0" node2="3,1" wall="fish" floor="wood" />
+	<edge node1="3,1" node2="3,2" wall="fish" floor="wood" />
+	<edge node1="3,2" node2="3,3" wall="fish" floor="wood" />
+	<edge node1="3,9" node2="3,10" wall="fish" floor="wood" />
+	<edge node1="3,10" node2="3,11" wall="fish" floor="yellow" />
+	<edge node1="3,11" node2="3,12" wall="fish" floor="yellow" />
+	<edge node1="3,12" node2="3,13" wall="fish" floor="yellow" />
+	<edge node1="3,13" node2="3,14" wall="fish" floor="yellow" />
+	<edge node1="3,14" node2="3,15" wall="fish" floor="yellow" />
+	<edge node1="3,15" node2="3,16" wall="fish" floor="concrete" />
+	<edge node1="3,17" node2="3,18" wall="fish" floor="concrete" />
+	<edge node1="3,18" node2="3,19" wall="fish" floor="concrete" />
+	<edge node1="3,19" node2="3,20" wall="fish" floor="concrete" />
+	<edge node1="4,2" node2="4,3" wall="butterfly" floor="concrete" />
+	<edge node1="4,3" node2="4,4" wall="butterfly" floor="concrete" />
+	<edge node1="4,4" node2="4,5" wall="tower" floor="yellow" />
+	<edge node1="4,5" node2="4,6" wall="tower" floor="yellow" />
+	<edge node1="4,6" node2="4,7" wall="tower" floor="yellow" />
+	<edge node1="4,8" node2="4,9" wall="tower" floor="gravel" />
+	<edge node1="4,9" node2="4,10" wall="tower" floor="gravel" />
+	<edge node1="4,10" node2="4,11" wall="tower" floor="gravel" />
+	<edge node1="4,11" node2="4,12" wall="tower" floor="blue" />
+	<edge node1="4,13" node2="4,14" wall="tower" floor="blue" />
+	<edge node1="4,14" node2="4,15" wall="tower" floor="blue" />
+	<edge node1="4,15" node2="4,16" wall="fish" floor="blue" />
+	<edge node1="4,17" node2="4,18" wall="fish" floor="blue" />
+	<edge node1="4,19" node2="4,20" wall="fish" floor="blue" />
+	<edge node1="5,3" node2="5,4" wall="fish" floor="blue" />
+	<edge node1="5,4" node2="5,5" wall="fish" floor="blue" />
+	<edge node1="5,6" node2="5,7" wall="fish" floor="blue" />
+	<edge node1="5,8" node2="5,9" wall="fish" floor="blue" />
+	<edge node1="5,9" node2="5,10" wall="fish" floor="blue" />
+	<edge node1="5,11" node2="5,12" wall="fish" floor="blue" />
+	<edge node1="5,12" node2="5,13" wall="butterfly" floor="blue" />
+	<edge node1="5,13" node2="5,14" wall="butterfly" floor="brick" />
+	<edge node1="5,14" node2="5,15" wall="butterfly" floor="brick" />
+	<edge node1="5,15" node2="5,16" wall="butterfly" floor="brick" />
+	<edge node1="5,16" node2="5,17" wall="butterfly" floor="brick" />
+	<edge node1="5,19" node2="5,20" wall="butterfly" floor="flower" />
+	<edge node1="6,2" node2="6,3" wall="butterfly" floor="flower" />
+	<edge node1="6,3" node2="6,4" wall="butterfly" floor="flower" />
+	<edge node1="6,4" node2="6,5" wall="butterfly" floor="flower" />
+	<edge node1="6,5" node2="6,6" wall="fish" floor="flower" />
+	<edge node1="6,16" node2="6,17" wall="fish" floor="flower" />
+	<edge node1="6,17" node2="6,18" wall="fish" floor="gravel" />
+	<edge node1="6,18" node2="6,19" wall="fish" floor="gravel" />
+	<edge node1="6,19" node2="6,20" wall="fish" floor="gravel" />
+	<edge node1="7,5" node2="7,6" wall="fish" floor="gravel" />
+	<edge node1="7,15" node2="7,16" wall="butterfly" floor="wood" />
+	<edge node1="7,17" node2="7,18" wall="butterfly" floor="wood" />
+	<edge node1="7,18" node2="7,19" wall="butterfly" floor="wood" />
+	<edge node1="7,19" node2="7,20" wall="butterfly" floor="wood" />
+	<edge node1="8,3" node2="8,4" wall="butterfly" floor="wood" />
+	<edge node1="8,9" node2="8,10" wall="fish" floor="flower" />
+	<edge node1="8,15" node2="8,16" wall="butterfly" floor="flower" />
+	<edge node1="8,16" node2="8,17" wall="butterfly" floor="flower" />
+	<edge node1="8,17" node2="8,18" wall="butterfly" floor="flower" />
+	<edge node1="8,18" node2="8,19" wall="tower" floor="flower" />
+	<edge node1="8,19" node2="8,20" wall="tower" floor="grass" />
+	<edge node1="9,3" node2="9,4" wall="tower" floor="grass" />
+	<edge node1="9,4" node2="9,5" wall="tower" floor="grass" />
+	<edge node1="9,5" node2="9,6" wall="tower" floor="grass" />
+	<edge node1="9,6" node2="9,7" wall="tower" floor="grass" />
+	<edge node1="9,7" node2="9,8" wall="tower" floor="grass" />
+	<edge node1="9,15" node2="9,16" wall="tower" floor="wood" />
+	<edge node1="9,16" node2="9,17" wall="tower" floor="wood" />
+	<edge node1="10,0" node2="10,1" wall="tower" floor="wood" />
+	<edge node1="10,2" node2="10,3" wall="tower" floor="grass" />
+	<edge node1="10,3" node2="10,4" wall="tower" floor="grass" />
+	<edge node1="10,4" node2="10,5" wall="tower" floor="grass" />
+	<edge node1="10,6" node2="10,7" wall="tower" floor="grass" />
+	<edge node1="10,8" node2="10,9" wall="butterfly" floor="grass" />
+	<edge node1="10,9" node2="10,10" wall="butterfly" floor="grass" />
+	<edge node1="10,10" node2="10,11" wall="butterfly" floor="wood" />
+	<edge node1="10,11" node2="10,12" wall="butterfly" floor="wood" />
+	<edge node1="10,16" node2="10,17" wall="butterfly" floor="wood" />
+	<edge node1="11,2" node2="11,3" wall="butterfly" floor="wood" />
+	<edge node1="11,4" node2="11,5" wall="butterfly" floor="wood" />
+	<edge node1="11,5" node2="11,6" wall="butterfly" floor="yellow" />
+	<edge node1="11,7" node2="11,8" wall="butterfly" floor="yellow" />
+	<edge node1="11,8" node2="11,9" wall="butterfly" floor="yellow" />
+	<edge node1="11,9" node2="11,10" wall="butterfly" floor="yellow" />
+	<edge node1="11,11" node2="11,12" wall="butterfly" floor="yellow" />
+	<edge node1="11,15" node2="11,16" wall="butterfly" floor="yellow" />
+	<edge node1="11,16" node2="11,17" wall="butterfly" floor="gravel" />
+	<edge node1="11,18" node2="11,19" wall="fish" floor="gravel" />
+	<edge node1="12,0" node2="12,1" wall="fish" floor="gravel" />
+	<edge node1="12,1" node2="12,2" wall="fish" floor="gravel" />
+	<edge node1="12,2" node2="12,3" wall="fish" floor="gravel" />
+	<edge node1="12,7" node2="12,8" wall="fish" floor="gravel" />
+	<edge node1="12,8" node2="12,9" wall="fish" floor="concrete" />
+	<edge node1="12,11" node2="12,12" wall="fish" floor="concrete" />
+	<edge node1="12,15" node2="12,16" wall="fish" floor="concrete" />
+	<edge node1="12,17" node2="12,18" wall="fish" floor="concrete" />
+	<edge node1="12,19" node2="12,20" wall="fish" floor="concrete" />
+	<edge node1="13,1" node2="13,2" wall="fish" floor="gravel" />
+	<edge node1="13,2" node2="13,3" wall="fish" floor="gravel" />
+	<edge node1="13,6" node2="13,7" wall="fish" floor="gravel" />
+	<edge node1="13,7" node2="13,8" wall="fish" floor="flower" />
+	<edge node1="13,10" node2="13,11" wall="fish" floor="flower" />
+	<edge node1="13,11" node2="13,12" wall="fish" floor="flower" />
+	<edge node1="13,12" node2="13,13" wall="fish" floor="flower" />
+	<edge node1="13,13" node2="13,14" wall="fish" floor="flower" />
+	<edge node1="13,14" node2="13,15" wall="tower" floor="flower" />
+	<edge node1="13,16" node2="13,17" wall="tower" floor="wood" />
+	<edge node1="13,17" node2="13,18" wall="tower" floor="wood" />
+	<edge node1="13,18" node2="13,19" wall="tower" floor="wood" />
+	<edge node1="14,0" node2="14,1" wall="tower" floor="wood" />
+	<edge node1="14,1" node2="14,2" wall="tower" floor="wood" />
+	<edge node1="14,2" node2="14,3" wall="butterfly" floor="grass" />
+	<edge node1="14,9" node2="14,10" wall="butterfly" floor="grass" />
+	<edge node1="14,10" node2="14,11" wall="butterfly" floor="grass" />
+	<edge node1="14,11" node2="14,12" wall="butterfly" floor="grass" />
+	<edge node1="14,12" node2="14,13" wall="butterfly" floor="grass" />
+	<edge node1="14,15" node2="14,16" wall="butterfly" floor="grass" />
+	<edge node1="14,16" node2="14,17" wall="butterfly" floor="brick" />
+	<edge node1="14,17" node2="14,18" wall="butterfly" floor="brick" />
+	<edge node1="14,19" node2="14,20" wall="butterfly" floor="brick" />
+	<edge node1="15,0" node2="15,1" wall="butterfly" floor="flower" />
+	<edge node1="15,1" node2="15,2" wall="butterfly" floor="flower" />
+	<edge node1="15,3" node2="15,4" wall="tower" floor="flower" />
+	<edge node1="15,4" node2="15,5" wall="tower" floor="yellow" />
+	<edge node1="15,5" node2="15,6" wall="butterfly" floor="yellow" />
+	<edge node1="15,6" node2="15,7" wall="tower" floor="yellow" />
+	<edge node1="15,7" node2="15,8" wall="tower" floor="yellow" />
+	<edge node1="15,9" node2="15,10" wall="tower" floor="yellow" />
+	<edge node1="15,12" node2="15,13" wall="tower" floor="yellow" />
+	<edge node1="15,13" node2="15,14" wall="tower" floor="gravel" />
+	<edge node1="15,14" node2="15,15" wall="tower" floor="gravel" />
+	<edge node1="15,15" node2="15,16" wall="butterfly" floor="gravel" />
+	<edge node1="15,17" node2="15,18" wall="butterfly" floor="gravel" />
+	<edge node1="15,18" node2="15,19" wall="butterfly" floor="flower" />
+	<edge node1="16,0" node2="16,1" wall="butterfly" floor="flower" />
+	<edge node1="16,1" node2="16,2" wall="tower" floor="flower" />
+	<edge node1="16,3" node2="16,4" wall="tower" floor="flower" />
+	<edge node1="16,4" node2="16,5" wall="tower" floor="flower" />
+	<edge node1="16,5" node2="16,6" wall="tower" floor="blue" />
+	<edge node1="16,7" node2="16,8" wall="tower" floor="blue" />
+	<edge node1="16,8" node2="16,9" wall="tower" floor="flower" />
+	<edge node1="16,9" node2="16,10" wall="tower" floor="flower" />
+	<edge node1="16,15" node2="16,16" wall="tower" floor="yellow" />
+	<edge node1="16,16" node2="16,17" wall="tower" floor="yellow" />
+	<edge node1="16,19" node2="16,20" wall="tower" floor="wood" />
+	<edge node1="17,6" node2="17,7" wall="butterfly" floor="wood" />
+	<edge node1="17,7" node2="17,8" wall="butterfly" floor="wood" />
+	<edge node1="17,8" node2="17,9" wall="butterfly" floor="yellow" />
+	<edge node1="17,12" node2="17,13" wall="butterfly" floor="yellow" />
+	<edge node1="17,13" node2="17,14" wall="butterfly" floor="yellow" />
+	<edge node1="17,16" node2="17,17" wall="butterfly" floor="yellow" />
+	<edge node1="17,17" node2="17,18" wall="butterfly" floor="yellow" />
+	<edge node1="18,2" node2="18,3" wall="butterfly" floor="gravel" />
+	<edge node1="18,3" node2="18,4" wall="fish" floor="gravel" />
+	<edge node1="18,4" node2="18,5" wall="fish" floor="gravel" />
+	<edge node1="18,6" node2="18,7" wall="fish" floor="gravel" />
+	<edge node1="18,9" node2="18,10" wall="fish" floor="gravel" />
+	<edge node1="18,15" node2="18,16" wall="fish" floor="gravel" />
+	<edge node1="18,16" node2="18,17" wall="fish" floor="brick" />
+	<edge node1="18,18" node2="18,19" wall="fish" floor="brick" />
+	<edge node1="18,19" node2="18,20" wall="fish" floor="brick" />
+	<edge node1="19,6" node2="19,7" wall="fish" floor="concrete" />
+	<edge node1="19,11" node2="19,12" wall="fish" floor="concrete" />
+	<edge node1="19,14" node2="19,15" wall="fish" floor="concrete" />
+	<edge node1="19,19" node2="19,20" wall="fish" floor="concrete" />
+	<edge node1="20,0" node2="20,1" wall="fish" floor="gravel" />
+	<edge node1="20,1" node2="20,2" wall="fish" floor="gravel" />
+	<edge node1="20,2" node2="20,3" wall="fish" floor="gravel" />
+	<edge node1="20,3" node2="20,4" wall="fish" floor="gravel" />
+	<edge node1="20,4" node2="20,5" wall="butterfly" floor="gravel" />
+	<edge node1="20,7" node2="20,8" wall="tower" floor="gravel" />
+	<edge node1="20,8" node2="20,9" wall="tower" floor="concrete" />
+	<edge node1="20,9" node2="20,10" wall="tower" floor="concrete" />
+	<edge node1="20,10" node2="20,11" wall="tower" floor="concrete" />
+	<edge node1="20,11" node2="20,12" wall="tower" floor="concrete" />
+	<edge node1="20,12" node2="20,13" wall="tower" floor="concrete" />
+	<edge node1="20,15" node2="20,16" wall="tower" floor="yellow" />
+	<edge node1="20,16" node2="20,17" wall="tower" floor="yellow" />
+	<edge node1="20,17" node2="20,18" wall="tower" floor="yellow" />
+	<edge node1="20,18" node2="20,19" wall="butterfly" floor="yellow" />
+	<edge node1="20,19" node2="20,20" wall="fish" floor="wood" />
+	<edge node1="0,0" node2="1,0" wall="fish" floor="wood" />
+	<edge node1="10,0" node2="11,0" wall="fish" floor="wood" />
+	<edge node1="11,0" node2="12,0" wall="fish" floor="yellow" />
+	<edge node1="14,0" node2="15,0" wall="fish" floor="yellow" />
+	<edge node1="16,0" node2="17,0" wall="fish" floor="yellow" />
+	<edge node1="17,0" node2="18,0" wall="fish" floor="yellow" />
+	<edge node1="18,0" node2="19,0" wall="fish" floor="wood" />
+	<edge node1="19,0" node2="20,0" wall="fish" floor="wood" />
+	<edge node1="2,1" node2="3,1" wall="fish" floor="wood" />
+	<edge node1="10,1" node2="11,1" wall="butterfly" floor="wood" />
+	<edge node1="12,1" node2="13,1" wall="butterfly" floor="wood" />
+	<edge node1="13,1" node2="14,1" wall="butterfly" floor="brick" />
+	<edge node1="15,1" node2="16,1" wall="butterfly" floor="brick" />
+	<edge node1="3,2" node2="4,2" wall="butterfly" floor="brick" />
+	<edge node1="4,2" node2="5,2" wall="butterfly" floor="brick" />
+	<edge node1="5,2" node2="6,2" wall="butterfly" floor="brick" />
+	<edge node1="9,2" node2="10,2" wall="butterfly" floor="yellow" />
+	<edge node1="11,2" node2="12,2" wall="butterfly" floor="yellow" />
+	<edge node1="15,2" node2="16,2" wall="butterfly" floor="yellow" />
+	<edge node1="1,3" node2="2,3" wall="butterfly" floor="yellow" />
+	<edge node1="2,3" node2="3,3" wall="butterfly" floor="yellow" />
+	<edge node1="6,3" node2="7,3" wall="butterfly" floor="yellow" />
+	<edge node1="7,3" node2="8,3" wall="butterfly" floor="flower" />
+	<edge node1="8,3" node2="9,3" wall="butterfly" floor="flower" />
+	<edge node1="9,3" node2="10,3" wall="butterfly" floor="flower" />
+	<edge node1="10,3" node2="11,3" wall="butterfly" floor="flower" />
+	<edge node1="11,3" node2="12,3" wall="butterfly" floor="flower" />
+	<edge node1="13,3" node2="14,3" wall="fish" floor="gravel" />
+	<edge node1="14,3" node2="15,3" wall="fish" floor="gravel" />
+	<edge node1="15,3" node2="16,3" wall="fish" floor="gravel" />
+	<edge node1="6,4" node2="7,4" wall="fish" floor="gravel" />
+	<edge node1="7,4" node2="8,4" wall="fish" floor="blue" />
+	<edge node1="8,4" node2="9,4" wall="fish" floor="blue" />
+	<edge node1="10,4" node2="11,4" wall="fish" floor="blue" />
+	<edge node1="11,4" node2="12,4" wall="fish" floor="blue" />
+	<edge node1="12,4" node2="13,4" wall="fish" floor="blue" />
+	<edge node1="13,4" node2="14,4" wall="tower" floor="blue" />
+	<edge node1="14,4" node2="15,4" wall="tower" floor="yellow" />
+	<edge node1="2,5" node2="3,5" wall="tower" floor="yellow" />
+	<edge node1="3,5" node2="4,5" wall="tower" floor="brick" />
+	<edge node1="4,5" node2="5,5" wall="tower" floor="brick" />
+	<edge node1="5,5" node2="6,5" wall="tower" floor="brick" />
+	<edge node1="7,5" node2="8,5" wall="tower" floor="yellow" />
+	<edge node1="8,5" node2="9,5" wall="tower" floor="yellow" />
+	<edge node1="9,5" node2="10,5" wall="tower" floor="yellow" />
+	<edge node1="10,5" node2="11,5" wall="tower" floor="yellow" />
+	<edge node1="16,5" node2="17,5" wall="tower" floor="yellow" />
+	<edge node1="17,5" node2="18,5" wall="fish" floor="gravel" />
+	<edge node1="18,5" node2="19,5" wall="fish" floor="gravel" />
+	<edge node1="19,5" node2="20,5" wall="fish" floor="gravel" />
+	<edge node1="0,6" node2="1,6" wall="fish" floor="gravel" />
+	<edge node1="1,6" node2="2,6" wall="fish" floor="gravel" />
+	<edge node1="4,6" node2="5,6" wall="fish" floor="brick" />
+	<edge node1="5,6" node2="6,6" wall="fish" floor="brick" />
+	<edge node1="7,6" node2="8,6" wall="fish" floor="brick" />
+	<edge node1="10,6" node2="11,6" wall="fish" floor="brick" />
+	<edge node1="11,6" node2="12,6" wall="fish" floor="brick" />
+	<edge node1="12,6" node2="13,6" wall="butterfly" floor="brick" />
+	<edge node1="16,6" node2="17,6" wall="butterfly" floor="grass" />
+	<edge node1="0,7" node2="1,7" wall="butterfly" floor="grass" />
+	<edge node1="1,7" node2="2,7" wall="butterfly" floor="grass" />
+	<edge node1="2,7" node2="3,7" wall="butterfly" floor="grass" />
+	<edge node1="3,7" node2="4,7" wall="butterfly" floor="grass" />
+	<edge node1="9,7" node2="10,7" wall="butterfly" floor="flower" />
+	<edge node1="10,7" node2="11,7" wall="tower" floor="flower" />
+	<edge node1="11,7" node2="12,7" wall="fish" floor="flower" />
+	<edge node1="17,7" node2="18,7" wall="fish" floor="flower" />
+	<edge node1="18,7" node2="19,7" wall="fish" floor="flower" />
+	<edge node1="19,7" node2="20,7" wall="tower" floor="flower" />
+	<edge node1="0,8" node2="1,8" wall="tower" floor="brick" />
+	<edge node1="1,8" node2="2,8" wall="tower" floor="brick" />
+	<edge node1="2,8" node2="3,8" wall="tower" floor="brick" />
+	<edge node1="3,8" node2="4,8" wall="tower" floor="brick" />
+	<edge node1="4,8" node2="5,8" wall="tower" floor="brick" />
+	<edge node1="9,8" node2="10,8" wall="tower" floor="concrete" />
+	<edge node1="12,8" node2="13,8" wall="tower" floor="concrete" />
+	<edge node1="13,8" node2="14,8" wall="tower" floor="concrete" />
+	<edge node1="14,8" node2="15,8" wall="fish" floor="concrete" />
+	<edge node1="15,8" node2="16,8" wall="butterfly" floor="concrete" />
+	<edge node1="16,8" node2="17,8" wall="butterfly" floor="flower" />
+	<edge node1="2,9" node2="3,9" wall="butterfly" floor="flower" />
+	<edge node1="3,9" node2="4,9" wall="butterfly" floor="flower" />
+	<edge node1="4,9" node2="5,9" wall="butterfly" floor="concrete" />
+	<edge node1="8,9" node2="9,9" wall="butterfly" floor="concrete" />
+	<edge node1="9,9" node2="10,9" wall="butterfly" floor="concrete" />
+	<edge node1="12,9" node2="13,9" wall="butterfly" floor="yellow" />
+	<edge node1="13,9" node2="14,9" wall="butterfly" floor="yellow" />
+	<edge node1="15,9" node2="16,9" wall="butterfly" floor="yellow" />
+	<edge node1="17,9" node2="18,9" wall="butterfly" floor="grass" />
+	<edge node1="0,10" node2="1,10" wall="butterfly" floor="grass" />
+	<edge node1="4,10" node2="5,10" wall="butterfly" floor="grass" />
+	<edge node1="8,10" node2="9,10" wall="butterfly" floor="grass" />
+	<edge node1="9,10" node2="10,10" wall="butterfly" floor="grass" />
+	<edge node1="11,10" node2="12,10" wall="tower" floor="yellow" />
+	<edge node1="12,10" node2="13,10" wall="tower" floor="yellow" />
+	<edge node1="14,10" node2="15,10" wall="tower" floor="yellow" />
+	<edge node1="16,10" node2="17,10" wall="tower" floor="yellow" />
+	<edge node1="17,10" node2="18,10" wall="tower" floor="yellow" />
+	<edge node1="18,10" node2="19,10" wall="tower" floor="brick" />
+	<edge node1="19,10" node2="20,10" wall="tower" floor="brick" />
+	<edge node1="1,11" node2="2,11" wall="tower" floor="blue" />
+	<edge node1="2,11" node2="3,11" wall="tower" floor="blue" />
+	<edge node1="3,11" node2="4,11" wall="tower" floor="flower" />
+	<edge node1="10,11" node2="11,11" wall="tower" floor="flower" />
+	<edge node1="11,11" node2="12,11" wall="tower" floor="flower" />
+	<edge node1="12,11" node2="13,11" wall="tower" floor="brick" />
+	<edge node1="18,11" node2="19,11" wall="tower" floor="brick" />
+	<edge node1="19,11" node2="20,11" wall="tower" floor="brick" />
+	<edge node1="1,12" node2="2,12" wall="tower" floor="brick" />
+	<edge node1="2,12" node2="3,12" wall="tower" floor="brick" />
+	<edge node1="3,12" node2="4,12" wall="tower" floor="gravel" />
+	<edge node1="14,12" node2="15,12" wall="tower" floor="gravel" />
+	<edge node1="17,12" node2="18,12" wall="tower" floor="gravel" />
+	<edge node1="18,12" node2="19,12" wall="tower" floor="grass" />
+	<edge node1="0,13" node2="1,13" wall="tower" floor="grass" />
+	<edge node1="1,13" node2="2,13" wall="fish" floor="grass" />
+	<edge node1="2,13" node2="3,13" wall="fish" floor="grass" />
+	<edge node1="4,13" node2="5,13" wall="fish" floor="grass" />
+	<edge node1="13,13" node2="14,13" wall="fish" floor="concrete" />
+	<edge node1="14,13" node2="15,13" wall="fish" floor="concrete" />
+	<edge node1="17,13" node2="18,13" wall="fish" floor="concrete" />
+	<edge node1="18,13" node2="19,13" wall="fish" floor="concrete" />
+	<edge node1="19,13" node2="20,13" wall="fish" floor="flower" />
+	<edge node1="0,14" node2="1,14" wall="fish" floor="flower" />
+	<edge node1="1,14" node2="2,14" wall="fish" floor="wood" />
+	<edge node1="2,14" node2="3,14" wall="fish" floor="wood" />
+	<edge node1="4,14" node2="5,14" wall="fish" floor="wood" />
+	<edge node1="13,14" node2="14,14" wall="fish" floor="wood" />
+	<edge node1="14,14" node2="15,14" wall="fish" floor="blue" />
+	<edge node1="15,14" node2="16,14" wall="fish" floor="blue" />
+	<edge node1="16,14" node2="17,14" wall="fish" floor="blue" />
+	<edge node1="17,14" node2="18,14" wall="fish" floor="blue" />
+	<edge node1="18,14" node2="19,14" wall="tower" floor="blue" />
+	<edge node1="19,14" node2="20,14" wall="tower" floor="grass" />
+	<edge node1="0,15" node2="1,15" wall="tower" floor="grass" />
+	<edge node1="1,15" node2="2,15" wall="tower" floor="grass" />
+	<edge node1="2,15" node2="3,15" wall="tower" floor="grass" />
+	<edge node1="3,15" node2="4,15" wall="tower" floor="grass" />
+	<edge node1="5,15" node2="6,15" wall="tower" floor="grass" />
+	<edge node1="6,15" node2="7,15" wall="fish" floor="grass" />
+	<edge node1="7,15" node2="8,15" wall="fish" floor="grass" />
+	<edge node1="9,15" node2="10,15" wall="fish" floor="grass" />
+	<edge node1="10,15" node2="11,15" wall="fish" floor="concrete" />
+	<edge node1="12,15" node2="13,15" wall="fish" floor="concrete" />
+	<edge node1="13,15" node2="14,15" wall="tower" floor="concrete" />
+	<edge node1="14,15" node2="15,15" wall="tower" floor="concrete" />
+	<edge node1="16,15" node2="17,15" wall="tower" floor="grass" />
+	<edge node1="17,15" node2="18,15" wall="tower" floor="grass" />
+	<edge node1="18,15" node2="19,15" wall="butterfly" floor="grass" />
+	<edge node1="19,15" node2="20,15" wall="butterfly" floor="grass" />
+	<edge node1="0,16" node2="1,16" wall="butterfly" floor="flower" />
+	<edge node1="1,16" node2="2,16" wall="butterfly" floor="flower" />
+	<edge node1="2,16" node2="3,16" wall="fish" floor="flower" />
+	<edge node1="3,16" node2="4,16" wall="butterfly" floor="flower" />
+	<edge node1="5,16" node2="6,16" wall="butterfly" floor="flower" />
+	<edge node1="6,16" node2="7,16" wall="butterfly" floor="flower" />
+	<edge node1="7,16" node2="8,16" wall="butterfly" floor="gravel" />
+	<edge node1="8,16" node2="9,16" wall="butterfly" floor="gravel" />
+	<edge node1="11,16" node2="12,16" wall="butterfly" floor="gravel" />
+	<edge node1="12,16" node2="13,16" wall="fish" floor="gravel" />
+	<edge node1="14,16" node2="15,16" wall="fish" floor="gravel" />
+	<edge node1="15,16" node2="16,16" wall="fish" floor="brick" />
+	<edge node1="16,16" node2="17,16" wall="fish" floor="brick" />
+	<edge node1="17,16" node2="18,16" wall="fish" floor="brick" />
+	<edge node1="18,16" node2="19,16" wall="fish" floor="brick" />
+	<edge node1="1,17" node2="2,17" wall="fish" floor="brick" />
+	<edge node1="2,17" node2="3,17" wall="fish" floor="grass" />
+	<edge node1="4,17" node2="5,17" wall="butterfly" floor="grass" />
+	<edge node1="5,17" node2="6,17" wall="butterfly" floor="grass" />
+	<edge node1="7,17" node2="8,17" wall="butterfly" floor="grass" />
+	<edge node1="8,17" node2="9,17" wall="butterfly" floor="grass" />
+	<edge node1="9,17" node2="10,17" wall="butterfly" floor="grass" />
+	<edge node1="11,17" node2="12,17" wall="butterfly" floor="gravel" />
+	<edge node1="14,17" node2="15,17" wall="butterfly" floor="gravel" />
+	<edge node1="15,17" node2="16,17" wall="fish" floor="gravel" />
+	<edge node1="16,17" node2="17,17" wall="fish" floor="gravel" />
+	<edge node1="17,17" node2="18,17" wall="fish" floor="gravel" />
+	<edge node1="18,17" node2="19,17" wall="fish" floor="gravel" />
+	<edge node1="2,18" node2="3,18" wall="fish" floor="gravel" />
+	<edge node1="4,18" node2="5,18" wall="fish" floor="gravel" />
+	<edge node1="5,18" node2="6,18" wall="fish" floor="grass" />
+	<edge node1="11,18" node2="12,18" wall="fish" floor="grass" />
+	<edge node1="14,18" node2="15,18" wall="fish" floor="grass" />
+	<edge node1="15,18" node2="16,18" wall="fish" floor="grass" />
+	<edge node1="16,18" node2="17,18" wall="tower" floor="grass" />
+	<edge node1="17,18" node2="18,18" wall="tower" floor="grass" />
+	<edge node1="18,18" node2="19,18" wall="tower" floor="grass" />
+	<edge node1="4,19" node2="5,19" wall="butterfly" floor="grass" />
+	<edge node1="11,19" node2="12,19" wall="fish" floor="grass" />
+	<edge node1="13,19" node2="14,19" wall="butterfly" floor="grass" />
+	<edge node1="14,19" node2="15,19" wall="butterfly" floor="grass" />
+	<edge node1="15,19" node2="16,19" wall="butterfly" floor="blue" />
+	<edge node1="16,19" node2="17,19" wall="butterfly" floor="blue" />
+	<edge node1="17,19" node2="18,19" wall="butterfly" floor="blue" />
+	<edge node1="18,19" node2="19,19" wall="butterfly" floor="blue" />
+	<edge node1="19,19" node2="20,19" wall="butterfly" floor="blue" />
+	<edge node1="3,20" node2="4,20" wall="fish" floor="blue" />
+	<edge node1="5,20" node2="6,20" wall="fish" floor="wood" />
+	<edge node1="7,20" node2="8,20" wall="fish" floor="wood" />
+	<edge node1="11,20" node2="12,20" wall="fish" floor="wood" />
+	<edge node1="12,20" node2="13,20" wall="fish" floor="flower" />
+	<edge node1="13,20" node2="14,20" wall="fish" floor="flower" />
+	<edge node1="15,20" node2="16,20" wall="tower" floor="flower" />
+	<edge node1="16,20" node2="17,20" wall="tower" floor="flower" />
+	<edge node1="17,20" node2="18,20" wall="tower" floor="blue" />
+	<edge node1="18,20" node2="19,20" wall="tower" floor="blue" />
+</map>
